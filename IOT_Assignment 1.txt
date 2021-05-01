@@ -1,0 +1,24 @@
+ASSIGNMENT 1
+Applications of IOT:
+
+1. Predictive Maintenance
+2. Enterprise Asset Management
+3. Industrial Process Automation/Optimisation
+4. Energy Management
+5. Outdoor Surveillance
+6. Smart Lighting
+7. Electronic Road Toll Collection and Traffic Management
+8. Smart Parking
+9. Noise Monitoring
+10. Structural Health Monitoring
+11. Waste Management
+12. Water Conservation
+13. Smart Irrigation
+14. Leakage Management
+15. Water Quality Management
+16. Ultraviolet Radiation Monitoring
+17. Fall Detection
+18. Companion Robots
+19. Medical Fridges
+20. Patient Surveillance/Remote Patient Monitoring
+
