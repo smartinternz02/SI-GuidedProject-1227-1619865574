@@ -133,9 +133,8 @@ void control_func()
           display.setCursor(3, 25);
            digitalWrite(led1,LOW);
            digitalWrite(led2,LOW);
-          display.print("Light OFF");
+           display.println(".......lights are off..........");
           delay(1000);
-          Serial.println(".......lights are off..........");
           display.clearDisplay();
           display.display(); 
  
@@ -150,7 +149,7 @@ void control_func()
       display.setCursor(3, 25);
       digitalWrite(led1,HIGH);
       digitalWrite(led2,HIGH);
-     Serial.println(".......lights are on..........");
+     display.println(".......lights are on..........");
         delay(1000);
           display.clearDisplay();
           display.display(); 
